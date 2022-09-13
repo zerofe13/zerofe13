@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-![zerofe13's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerofe13&show_icons=true&theme=tokyonight) 
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=syc9278)](https://solved.ac/syc9278)
-
+![zerofe13's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerofe13&show_icons=true&theme=tokyonight) 
 
 <!--
 **zerofe13/zerofe13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
