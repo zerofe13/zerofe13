@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ![zerofe13's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerofe13&show_icons=true&theme=tokyonight) 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syc9278)](https://solved.ac/syc9278/)
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syc9278)](https://solved.ac/syc9278/)
 
 
 <!--
